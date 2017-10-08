@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOS Bus Finder</string>
+    <string name="hello_sos">Hello SOS Bus!</string>
+    <string name="view_map">View Map!</string>
+    <string name="call_the_sos">Call the SOS!</string>
+    <string name="sos_website">View SOS website!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sos_number">07901 505 505</string>
+    
+
+</resources>
